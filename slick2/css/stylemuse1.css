@@ -992,7 +992,7 @@ label{
 		align-items: center;
 	}
 }
-@media (max-width: 416px){
+@media (max-width: 417px){
 	.placement{
 		padding: 0;
 	}
