@@ -960,3 +960,35 @@ label{
 		flex-direction: column;
 	}
 }
+
+@media (max-width: 396px){
+	.placement{
+		padding: 0;
+	}
+	.schedule{
+		margin-bottom: 20px;
+	}
+	.promo--agency .promo__img{
+		max-width: 357px;
+	}
+	.whale__fare-fare{
+		flex-direction: column;
+		gap: 20px;
+	}
+	.fare__whale-fare {
+		display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+	}
+	.fare__whale{
+		padding: 12px 24px;
+	}
+	.footer__info{
+		display: flex;
+		justify-content: space-around;
+		align-items: center;
+	}
+	.footer__about{
+		align-items: center;
+	}
+}
