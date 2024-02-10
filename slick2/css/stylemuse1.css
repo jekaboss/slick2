@@ -1023,3 +1023,11 @@ label{
 		align-items: center;
 	}
 }
+@media (max-width: 360px){
+	.promo__img {
+		width: 307px;
+	}
+	.promo__container{
+		padding: 0 8px;
+	}
+}
