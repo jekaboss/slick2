@@ -3151,8 +3151,8 @@ div.pricelist__price--child-hot {
   margin-bottom: 120px;
 }
 .promo--agency .promo__content {
-  justify-content: space-between;
-  gap: 50px;
+      justify-content: center;
+    gap: 60px;
 }
 @media (max-width: 47.99875em) {
   .promo--agency .promo__content {
@@ -10053,7 +10053,7 @@ ul.news__tags li::before {
   transform: rotate(180deg) translateY(100%);
 }
 .schedule {
-  margin-bottom: 120px;
+  margin-bottom: 30px;
   line-height: 1.5;
 }
 @media (max-width: 80em) {
