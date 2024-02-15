@@ -718,7 +718,7 @@ label{
 	gap: 40px;
 }
 .fare__whale{
-	padding: 32px 24px;
+	padding: 32px 33px;
 	border-radius: 16px;
 	background-color: #1b1b1b;
 }
@@ -903,7 +903,7 @@ label{
 /* ======================= */
 
 .info-promo{
-	
+	    width: 568px;
 	flex-direction: column;
 }
 .promo__content{
